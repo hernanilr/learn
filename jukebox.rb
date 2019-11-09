@@ -100,7 +100,7 @@ class Volume
   end
 end
 
-# module Inject
+# module simula inject do Enumerable
 module Inject
   attr_accessor :myvar
 
